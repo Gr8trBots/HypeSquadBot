@@ -13,7 +13,6 @@ module.exports.run = async (bot, message, args) => {
             .addField("ping", `Pong!`)
             .addField("tr <from:iso> <to:iso> sentence", "Translates something using Google Translate")
             .addField("error", "Gives a link to the support server + bug tracker")
-            .addField("getrole <balance/brilliance/bravery>", "Get house roles")
             .addField("== ADMIN COMMANDS ==", "These commands can only be ran by Admins")
             .addField("kick <@user> <reason>", "Kick a user and log to mod-log")
             .addField("ban <@user> <reason>", "Ban a user and log to mod-log")
