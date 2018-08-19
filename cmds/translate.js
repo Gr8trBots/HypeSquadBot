@@ -1,6 +1,6 @@
 const Discord = module.require("discord.js");
 const translate = require('google-translate-api');
-const prefix = ("sl!")
+const prefix = ("hs.")
 const command = ("tr")
 module.exports.run = async (bot, message, args) => {
     

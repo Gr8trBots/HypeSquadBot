@@ -11,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
             .addField("ID", `${message.author.id}`)
             .addField("Account created at", `${message.author.createdAt}`)
             .addField("Avatar URL", `${message.author.displayAvatarURL}`)
-            .setFooter(`Thanks for using EquippedDroid`, "https://bot.hernikplays.tk/yeetcon.png")
+            .setFooter(`Get HYPED!`, "https://discordemoji.com/assets/emoji/HypeSquad.png")
             
             
          message.channel.send({embed: embed});

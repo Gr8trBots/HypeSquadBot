@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
             .setAuthor(message.author.username)
             .setDescription("If you would like to report an error, or need help with something around the bot, join the support server: https://discord.gg/47RnQ2a or try the *new* [BugTracker](https://www.botempire.tk/bugs)")
             .setColor("#000000")
-            .setFooter(`Thank you for using EquippedDroid!`)
+            .setFooter(`Don't forget to get hyped!`)
 
             message.channel.send({embed: embed});
 }
