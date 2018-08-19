@@ -1,2 +1,2 @@
 # HypeSquadBot
-A soon-to-be bot for my hypesquad server
+A bot for my [HS server](https://discord.me/houseobalance)
