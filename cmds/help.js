@@ -11,6 +11,8 @@ module.exports.run = async (bot, message, args) => {
             .addField("stats", "Show some bot stats")
             .addField("help", `Displays all commands`)
             .addField("ping", `Pong!`)
+            .addField("nsfw", "NSFW Pictures")
+            .addField("hentai", "Hentai GIFs")
             .addField("tr <from:iso> <to:iso> sentence", "Translates something using Google Translate")
             .addField("error", "Gives a link to the support server + bug tracker")
             .addField("== ADMIN COMMANDS ==", "These commands can only be ran by Admins")
