@@ -1,0 +1,19 @@
+{
+  "name": "slimeybot",
+  "version": "1.0.0",
+  "description": "A SlimeRancher bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slimerancher"
+  ],
+  "author": "hernikplays#4673",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.0",
+    "google-translate-api": "^2.3.0",
+    "npm": "^6.3.0"
+  }
+}
